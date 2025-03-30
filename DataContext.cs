@@ -21,21 +21,21 @@ namespace Fitness
                 .HasOne(w => w.User)
                 .WithMany(u => u.Workouts)
                 .HasForeignKey(w => w.UserId)
-                .OnDelete(DeleteBehavior.Cascade);  // Enable cascade delete
+                .OnDelete(DeleteBehavior.Cascade);  
 
             // One-to-Many relationship: Workout -> Leg
             modelBuilder.Entity<Leg>()
                 .HasOne(l => l.Workout)
                 .WithMany(w => w.LegWorkouts)
                 .HasForeignKey(l => l.WorkoutId)
-                .OnDelete(DeleteBehavior.Cascade);  // Enable cascade delete
+                .OnDelete(DeleteBehavior.Cascade);  
 
             // One-to-Many relationship: Workout -> Chest
             modelBuilder.Entity<Chest>()
                 .HasOne(c => c.Workout)
                 .WithMany(w => w.ChestWorkouts)
                 .HasForeignKey(c => c.WorkoutId)
-                .OnDelete(DeleteBehavior.Cascade);  // Enable cascade delete
+                .OnDelete(DeleteBehavior.Cascade);  
         }
     }
 }
