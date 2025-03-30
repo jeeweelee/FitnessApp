@@ -1,0 +1,25 @@
+﻿@Fitness_HostAddress = https://localhost:7026
+
+GET {{Fitness_HostAddress}}/user
+
+###
+
+GET {{Fitness_HostAddress}}/user
+
+###
+
+GET {{Fitness_HostAddress}}/user
+
+###
+
+GET {{Fitness_HostAddress}}/api/user/All
+
+###
+
+GET {{Fitness_HostAddress}}/api/user/All
+
+###
+
+GET {{Fitness_HostAddress}}/api/user/All
+
+###

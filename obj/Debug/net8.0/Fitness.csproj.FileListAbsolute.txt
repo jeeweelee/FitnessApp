@@ -1,3 +1,10 @@
+C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\obj\Debug\net8.0\Fitness.csproj.AssemblyReference.cache
+C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\obj\Debug\net8.0\Fitness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\obj\Debug\net8.0\Fitness.AssemblyInfoInputs.cache
+C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\obj\Debug\net8.0\Fitness.AssemblyInfo.cs
+C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\obj\Debug\net8.0\Fitness.csproj.CoreCompileInputs.cache
+C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\obj\Debug\net8.0\Fitness.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\obj\Debug\net8.0\Fitness.sourcelink.json
 C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\bin\Debug\net8.0\appsettings.json
 C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\bin\Debug\net8.0\Fitness.staticwebassets.runtime.json
@@ -169,12 +176,6 @@ C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\bin\Debug\net8.0\runtimes\win\li
 C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\obj\Debug\net8.0\Fitness.csproj.AssemblyReference.cache
-C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\obj\Debug\net8.0\Fitness.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\obj\Debug\net8.0\Fitness.AssemblyInfoInputs.cache
-C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\obj\Debug\net8.0\Fitness.AssemblyInfo.cs
-C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\obj\Debug\net8.0\Fitness.csproj.CoreCompileInputs.cache
-C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\obj\Debug\net8.0\Fitness.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
 C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\jiawe\OneDrive\Desktop\MVC app\Fitness\obj\Debug\net8.0\scopedcss\bundle\Fitness.styles.css
