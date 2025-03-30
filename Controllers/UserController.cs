@@ -20,8 +20,8 @@ namespace Fitness.Controllers
         {
             try
             {
-                var users = _userService.getAllUser(); // Returns IQueryable<User>
-                return Ok(users);// Convert to List before returning
+                var users = _userService.getAllUser(); 
+                return Ok(users);
             }
             catch (Exception ex)
             {

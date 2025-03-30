@@ -7,6 +7,6 @@
         public long? CableFlly {  get; set; }
         public long? InclineCableFly { get; set; }
         public int WorkoutId { get; set; }
-        public Workout Workout { get; set; }
+        public Workout? Workout { get; set; }
     }
 }

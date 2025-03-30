@@ -18,5 +18,61 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "Fitness.Controllers.WorkoutController",
+    "Method": "getAllLegs",
+    "RelativePath": "api/Workout",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Fitness.Model.Leg, Fitness, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Fitness.Controllers.WorkoutController",
+    "Method": "getAllChests",
+    "RelativePath": "api/Workout",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Fitness.Model.Chest, Fitness, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Fitness.Controllers.WorkoutController",
+    "Method": "AddChest",
+    "RelativePath": "api/Workout/addChest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "chest",
+        "Type": "Fitness.Model.Chest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
